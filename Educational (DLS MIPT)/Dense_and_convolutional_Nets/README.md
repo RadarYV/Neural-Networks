@@ -23,6 +23,5 @@ Data taken from MNIST dataset<br>
 - pandas
 - numpy
 - torch
-
-
-
+- torchvision
+- cv2
